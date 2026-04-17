@@ -1,4 +1,4 @@
-# 🚀 Estudos de JavaScript & Node.js
+# 🚀 Estudos de JavaScript
 
 Repositório destinado ao armazenamento de exercícios, desafios e projetos práticos realizados durante meus estudos de JavaScript, com foco em evolução para o ecossistema Node.js.
 
