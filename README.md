@@ -8,11 +8,11 @@ Este repositório serve como um log de aprendizado. Aqui organizo o progresso da
 ## 📂 Estrutura de Pastas
 
 Atualmente, o repositório conta com **25 aulas** (e contando!):
-* `aula-01-a-25/`: Fundamentos, sintaxe básica e manipulação de dados.
+* `aula-01-a-09/`: Básico para iniciantes.
+* `aula-10-a-30/`: Lógica de programação.
 
 ## 🛠️ Tecnologias Utilizadas
 * **JavaScript (ES6+)**
-* **Node.js**
 * **Git & GitHub** (Controle de versão)
 
 ---
