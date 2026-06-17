@@ -10,6 +10,7 @@ Este repositório serve como um log de aprendizado. Aqui organizo o progresso da
 Atualmente, o repositório conta com **25 aulas** (e contando!):
 * `aula-01-a-09/`: Básico para iniciantes.
 * `aula-10-a-37/`: Lógica de programação.
+* `aula-49-a-61/`: Functions.
 
 ## 🛠️ Tecnologias Utilizadas
 * **JavaScript (ES6+)**
